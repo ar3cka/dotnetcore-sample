@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>HowTo.DotNetCore2.GreetingService</AssemblyName>
+    <RootNamespace>HowTo.DotNetCore2.GreetingService</RootNamespace>
+    <Version>0.0.1</Version>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>CS1591</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
